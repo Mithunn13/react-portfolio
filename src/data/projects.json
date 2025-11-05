@@ -1,0 +1,10 @@
+[
+  {
+    "title": "AI-Powered Blog Website",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "A dynamic blog website built using HTML, CSS, and JavaScript with planned AI integration to generate, summarize, and personalize blog content.",
+    "skills": ["HTML", "CSS", "JavaScript", "MERN Stack"],
+    "demo": "https://mithunn13.github.io/ai_blog/",
+    "source": "https://github.com/Mithunn13/ai-blog"
+  }
+]
